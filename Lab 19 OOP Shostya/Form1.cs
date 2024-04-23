@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection.Emit;
 using System.Windows.Forms;
 
-namespace Lab_19_OOP_Dykyi
+namespace Lab_19_OOP_Shostya
 {
     public partial class Form1 : Form
     {
